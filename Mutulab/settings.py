@@ -53,7 +53,7 @@ ROOT_URLCONF = 'Mutulab.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [os.path.join(BASE_DIR, 'MutuLab/templates')],
+        'DIRS': [os.path.join(BASE_DIR, 'Mutulab/templates')],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
