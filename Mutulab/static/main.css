@@ -3,4 +3,12 @@
 #bagianatas{
     height: 300px;
     background-image: linear-gradient(90deg, #99B0B0, #ffffff);
+    position: static;
+}
+
+#bagianhome{
+    height: 50px;
+    background-color: #B5B2B0;
+    top : 300px;
+    position: static;
 }
