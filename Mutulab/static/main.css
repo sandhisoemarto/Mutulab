@@ -2,13 +2,31 @@
 
 #bagianatas{
     height: 300px;
-    background-image: linear-gradient(90deg, #99B0B0, #ffffff);
+    background-image: linear-gradient(90deg, #A39D92, #ffffff);
     position: static;
 }
 
 #bagianhome{
     height: 50px;
-    background-color: #B5B2B0;
+    background-color: #636059;
     top : 300px;
     position: static;
+}
+#Uraian{
+    font-size: 35px;
+    color: #636059;
+    top: 50px;
+    font-weight: normal;
+    font-family: sans-serif, "Arial";
+    position: absolute;
+    left: 150px;
+}
+#Home{
+    font-size: 20px;
+    color: #ffffff;
+    top: 310px;
+    font-weight: normal;
+    font-family: sans-serif, "Arial";
+    position: absolute;
+    left: 75px;
 }
